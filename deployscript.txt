@@ -1,0 +1,1 @@
+az webapp deploy --name lemon-meadow-c42454e7cd6542109edd609a4a204bc7 --resource-group vitorhugoperles_rg_5785 --src-path app.zip
